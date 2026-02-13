@@ -96,11 +96,11 @@ body {
 }
 
 #copyright {
-      margin-top: auto;
-      text-align: center;
-      font-size: 14px;
-      color: #666;
-      padding: 15px 0;
+  margin-top: auto;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  padding: 15px 0;
 }
 
 #errorMsg {
